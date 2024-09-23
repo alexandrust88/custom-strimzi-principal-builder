@@ -1,0 +1,50 @@
+@options
+@argfile
+-classpath
+'/home/codespace/.m2/repository/org/apache/kafka/kafka-clients/3.6.0/kafka-clients-3.6.0.jar:/home/codespace/.m2/repository/com/github/luben/zstd-jni/1.5.5-1/zstd-jni-1.5.5-1.jar:/home/codespace/.m2/repository/org/lz4/lz4-java/1.8.0/lz4-java-1.8.0.jar:/home/codespace/.m2/repository/org/xerial/snappy/snappy-java/1.1.10.4/snappy-java-1.1.10.4.jar:/home/codespace/.m2/repository/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.jar'
+-encoding
+'UTF-8'
+-public
+-source
+'17'
+-sourcepath
+'/workspaces/custom-strimzi-principal-builder/src/main/java:/workspaces/custom-strimzi-principal-builder/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/workspaces/custom-strimzi-principal-builder/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Custom Principal Builder 1.0.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Custom Principal Builder 1.0.0-SNAPSHOT API'
+'/workspaces/custom-strimzi-principal-builder/src/main/java/cz/scholz/customprincipalbuilder/CustomPrincipalBuilder.java'
+/home/codespace/.m2/repository/org/apache/kafka/kafka-clients/3.6.0/kafka-clients-3.6.0.jar = 1695965917000
+/home/codespace/.m2/repository/com/github/luben/zstd-jni/1.5.5-1/zstd-jni-1.5.5-1.jar = 1680728747000
+/home/codespace/.m2/repository/org/lz4/lz4-java/1.8.0/lz4-java-1.8.0.jar = 1624084292000
+/home/codespace/.m2/repository/org/xerial/snappy/snappy-java/1.1.10.4/snappy-java-1.1.10.4.jar = 1695510955000
+/home/codespace/.m2/repository/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.jar = 1644327230000
+/workspaces/custom-strimzi-principal-builder/src/main/java = 1727081091106
+/workspaces/custom-strimzi-principal-builder/target/generated-sources/annotations = 1727087882894
+/workspaces/custom-strimzi-principal-builder/target/apidocs/overview-tree.html = 1727087887214
+/workspaces/custom-strimzi-principal-builder/target/apidocs/stylesheet.css = 1727087887262
+/workspaces/custom-strimzi-principal-builder/target/apidocs/type-search-index.js = 1727087887234
+/workspaces/custom-strimzi-principal-builder/target/apidocs/index.html = 1727087887250
+/workspaces/custom-strimzi-principal-builder/target/apidocs/package-search-index.js = 1727087887234
+/workspaces/custom-strimzi-principal-builder/target/apidocs/script.js = 1727087887266
+/workspaces/custom-strimzi-principal-builder/target/apidocs/allpackages-index.html = 1727087887230
+/workspaces/custom-strimzi-principal-builder/target/apidocs/search.js = 1727087887270
+/workspaces/custom-strimzi-principal-builder/target/apidocs/allclasses-index.html = 1727087887230
+/workspaces/custom-strimzi-principal-builder/target/apidocs/jquery-ui.overrides.css = 1727087887278
+/workspaces/custom-strimzi-principal-builder/target/apidocs/module-search-index.js = 1727087887234
+/workspaces/custom-strimzi-principal-builder/target/apidocs/help-doc.html = 1727087887262
+/workspaces/custom-strimzi-principal-builder/target/apidocs/tag-search-index.js = 1727087887234
+/workspaces/custom-strimzi-principal-builder/target/apidocs/member-search-index.js = 1727087887234
+/workspaces/custom-strimzi-principal-builder/target/apidocs/element-list = 1727087887178
+/workspaces/custom-strimzi-principal-builder/target/apidocs/index-all.html = 1727087887250
